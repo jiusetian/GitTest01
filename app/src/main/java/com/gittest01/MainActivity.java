@@ -14,5 +14,10 @@ public class MainActivity extends AppCompatActivity {
         Log.d(TAG, "onCreate: 我是更改的内容");
         Log.d(TAG, "onCreate: 第一次添加数据");
         Log.d(TAG, "onCreate: 第二次添加数据");
+        initData();
+    }
+
+    private void initData(){
+        Log.d(TAG, "initData: 我是developer的第一次提交");
     }
 }
