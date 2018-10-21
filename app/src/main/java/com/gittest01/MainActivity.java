@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d(TAG, "onCreate: 第二次添加数据");
         Log.d(TAG, "onCreate: 第三次添加数据");
         initData();
+        Log.d(TAG, "onCreate: 进行一次修改上传github");
     }
 
     private void initData(){
