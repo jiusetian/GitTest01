@@ -18,8 +18,6 @@ public class MainActivity extends AppCompatActivity {
         initData();
         Log.d(TAG, "onCreate: 进行一次修改上传github");
 
-        // master的冲突测试
-        Log.d(TAG,"我是master");
     }
 
     private void initData(){
