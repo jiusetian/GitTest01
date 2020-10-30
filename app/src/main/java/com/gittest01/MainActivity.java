@@ -18,6 +18,8 @@ public class MainActivity extends AppCompatActivity {
         initData();
         Log.d(TAG, "onCreate: 进行一次修改上传github");
 
+        Log.d(TAG, "onCreate: 创建了feature分支");
+
     }
 
     private void initData(){
