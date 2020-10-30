@@ -17,6 +17,9 @@ public class MainActivity extends AppCompatActivity {
         Log.d(TAG, "onCreate: 第三次添加数据");
         initData();
         Log.d(TAG, "onCreate: 进行一次修改上传github");
+
+        // feature1的冲突测试
+        Log.d(TAG,"我是feature1");
     }
 
     private void initData(){
