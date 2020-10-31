@@ -6,4 +6,5 @@ package com.gittest01;
 
 public class Vulcan {
     //开发一个新功能
+    // 继续开发新功能
 }
