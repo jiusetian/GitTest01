@@ -25,6 +25,8 @@ public class MainActivity extends AppCompatActivity {
         // dev分支开发03
 
         // issue01的bug修复
+
+        // issue01的修复02
     }
 
     private void initData(){
