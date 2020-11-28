@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
     private void devFun() {
     }
 
-    private void devFun2(){}
+    private void devFun22(){}
 
     private void devFun3(){}
 }
