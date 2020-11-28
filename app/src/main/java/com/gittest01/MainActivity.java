@@ -6,7 +6,8 @@ import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
 
-    private  String TAG=getClass().getSimpleName();
+    private String TAG = getClass().getSimpleName();
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -31,7 +32,11 @@ public class MainActivity extends AppCompatActivity {
         // 做了无用的修改
     }
 
-    private void initData(){
+    private void initData() {
         Log.d(TAG, "initData: 我是developer的第一次提交");
+    }
+
+    // dev的方法
+    private void devFun() {
     }
 }
