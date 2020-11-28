@@ -30,6 +30,8 @@ public class MainActivity extends AppCompatActivity {
         // issue01的修复02
 
         // 做了无用的dfsa修改
+
+        // 做了一个需要回滚的commit
     }
 
     private void initData() {
