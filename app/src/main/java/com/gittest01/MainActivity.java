@@ -39,4 +39,6 @@ public class MainActivity extends AppCompatActivity {
     // dev的方法
     private void devFun() {
     }
+
+    private void devFun2(){}
 }
