@@ -38,9 +38,13 @@ public class MainActivity extends AppCompatActivity {
 
     // dev的方法
     private void devFun() {
+        int size = 0;
+        size += 2;
     }
 
-    private void devFun22(){}
+    private void devFun22() {
+    }
 
-    private void devFun33(){}
+    private void devFun33() {
+    }
 }
